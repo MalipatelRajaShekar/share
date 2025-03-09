@@ -21,6 +21,7 @@ export default function InputForm({setIsOpen}) {
 
   return (
     <>
+    
         <form className='form' onSubmit={handleOnSubmit}>
             <div className='form-control'>
                 <label>Email</label>

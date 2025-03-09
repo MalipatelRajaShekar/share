@@ -1,5 +1,5 @@
 import React from 'react';
-import foodRecipe from '../assets/logo.jpeg';
+import foodRecipe from '../assets/bow.png';
 import chefone from '../assets/do.jpeg';
 import cheftwo from '../assets/beauty.jpg';
 import chefthree from '../assets/ima.webp';
